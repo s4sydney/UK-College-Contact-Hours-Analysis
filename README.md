@@ -30,7 +30,7 @@ analysis dataset:
   add factors and gender composition for Sixth Form colleges
 - **FE data** - Contact hours and learner counts for Further Education
   colleges
-- **FE metrics** —-Graduation pass rates and value add factors for FE
+- **FE metrics** - Graduation pass rates and value add factors for FE
   colleges, linked by institution ID
 
 The cleaned, merged, analysis-ready dataset (`AllColleges_clean.csv`) is
