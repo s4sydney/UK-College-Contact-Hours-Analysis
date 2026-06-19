@@ -141,7 +141,7 @@ residual diagnostics.
 **Limitations**
 
 Levene's test indicated unequal variances across Region groups, and
-residuals showed some departure from normality — both common with
+residuals showed some departure from normality both common with
 real-world educational data, and the sample size of 311 colleges provides
 reasonable robustness to moderate violations.
 
